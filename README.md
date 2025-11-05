@@ -11,7 +11,7 @@ Currently pursuing my MCA at **Chandigarh University**, I love experimenting wit
 - ☁️ Deploy & monitor apps on **AWS** (EC2, S3, Lambda, CloudWatch)  
 - 🐳 Automate workflows with **Docker, GitHub Actions, and Ansible**  
 - 📊 Visualize metrics with **Grafana, Prometheus, and ELK Stack**  
-- 💻 Code in **Node.js, Java, Python, and C**
+- 💻 Code in **Node.js, Java, Python**
 
 ---
 ![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeebHaider137&show_icons=true&theme=tokyonight)
@@ -19,12 +19,9 @@ Currently pursuing my MCA at **Chandigarh University**, I love experimenting wit
 
 ---
 
-### 📫 Let’s Connect
-📍 Delhi, India  
+### 📫 Let’s Connect 
 📧 [kaxmiadeeb@gmail.com](mailto:kaxmiadeeb@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/adeeb-haider-40202b223)  
-💻 [GitHub](https://github.com/AdeebHaider137)  
-
+🔗 [LinkedIn](https://linkedin.com/in/adeeb-haider-40202b223)   
 ---
 
 > “Automate everything you can — and monitor what you can’t.” 🧩
