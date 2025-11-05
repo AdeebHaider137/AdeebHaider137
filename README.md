@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there 👋 I'm Adeeb Haider  
 
-<!--
-**AdeebHaider137/AdeebHaider137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Enthusiast | AWS | Docker | CI/CD | Monitoring**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable, secure, and automated systems in the cloud.  
+Currently pursuing my MCA at **Chandigarh University**, I love experimenting with **AWS, Docker, and monitoring tools** to bring reliability and performance to modern apps.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do
+- ☁️ Deploy & monitor apps on **AWS** (EC2, S3, Lambda, CloudWatch)  
+- 🐳 Automate workflows with **Docker, GitHub Actions, and Ansible**  
+- 📊 Visualize metrics with **Grafana, Prometheus, and ELK Stack**  
+- 💻 Code in **Node.js, Java, Python, and C**
+
+---
+![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeebHaider137&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeebHaider137&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let’s Connect
+📍 Delhi, India  
+📧 [kaxmiadeeb@gmail.com](mailto:kaxmiadeeb@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/adeeb-haider-40202b223)  
+💻 [GitHub](https://github.com/AdeebHaider137)  
+
+---
+
+> “Automate everything you can — and monitor what you can’t.” 🧩
