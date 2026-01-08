@@ -24,4 +24,4 @@ Currently pursuing my MCA at **Chandigarh University**, I love experimenting wit
 🔗 [LinkedIn](https://linkedin.com/in/adeeb-haider-40202b223)   
 ---
 
-> Automate everything you can — and monitor what you can’t 🧩
+> Automate everything you can and monitor what you can’t 🧩
